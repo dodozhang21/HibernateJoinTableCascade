@@ -7,3 +7,11 @@
 --alter table bank_audit add constraint bank_audit_audit_id foreign key (audit_id) references audit
 --alter table person_audit add constraint person_audit_person_id foreign key (person_id) references person
 --alter table person_audit add constraint person_audit_audit_id foreign key (audit_id) references audit
+
+insert into person (id, first_name, last_name) values (1, 'bubo', 'lee')
+insert into audit (id, action) values (1, 'saved')
+insert into person_audit (person_id, audit_id) values (1, 1)
+
+insert into bank (id, name) values (1, 'very special bank')
+insert into audit (id, action) values (2, 'inserted')
+insert into bank_audit (bank_id, audit_id) values (1, 2)

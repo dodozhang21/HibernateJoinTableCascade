@@ -12,7 +12,7 @@
         <property name="firstName" length="30"/>
         <property name="lastName" length="30"/>
 
-        <set name="audits" table="person_audit">
+        <set name="audits" table="person_audit" cascade="save-update">
             <key column="person_id" not-null="true" foreign-key="person_audit_person_id"/>
             <many-to-many column="audit_id" unique="true" class="Audit" foreign-key="person_audit_audit_id"/>
         </set>

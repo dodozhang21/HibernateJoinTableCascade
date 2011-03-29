@@ -59,96 +59,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="HibernateJoinTableCascadeNoneTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/net/pureessence/example/HibernateJoinTableCascadeNoneTest.java">
+      <file leaf-file-name="HibernateJoinTableCascadeSaveUpdateTest.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/net/pureessence/example/HibernateJoinTableCascadeSaveUpdateTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="14" selection-start="412" selection-end="412" vertical-scroll-proportion="0.0">
+            <state line="42" column="12" selection-start="1292" selection-end="1292" vertical-scroll-proportion="0.9860627">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestContext.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/TestContext.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="52" selection-start="798" selection-end="798" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Repository.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/Repository.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="57" selection-start="1842" selection-end="1842" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="spy.properties" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/properties/spy.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="69" column="23" selection-start="2491" selection-end="2491" vertical-scroll-proportion="0.46570396">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="70" column="75" selection-start="2628" selection-end="2628" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Bank.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/net/pureessence/example/Bank.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="21" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Person.hbm.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/Person.hbm.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="98" selection-start="758" selection-end="758" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="import.sql" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/import.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="66" selection-start="949" selection-end="949" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Bank.hbm.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/Bank.hbm.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="96" selection-start="658" selection-end="658" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Audit.hbm.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/Audit.hbm.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="42" selection-start="428" selection-end="428" vertical-scroll-proportion="0.0">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -169,14 +86,15 @@
         <option value="$PROJECT_DIR$/src/main/properties/log4j.properties" />
         <option value="$PROJECT_DIR$/src/main/java/net/pureessence/example/Person.java" />
         <option value="$PROJECT_DIR$/src/main/java/net/pureessence/example/Bank.java" />
-        <option value="$PROJECT_DIR$/src/test/java/net/pureessence/example/HibernateJoinTableCascadeNoneTest.java" />
         <option value="$PROJECT_DIR$/src/main/resources/Audit.hbm.xml" />
         <option value="$PROJECT_DIR$/src/test/resources/TestContext.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/Bank.hbm.xml" />
-        <option value="$PROJECT_DIR$/src/main/resources/Person.hbm.xml" />
-        <option value="$PROJECT_DIR$/src/test/resources/import.sql" />
-        <option value="$PROJECT_DIR$/src/main/resources/Repository.xml" />
         <option value="$PROJECT_DIR$/src/test/properties/spy.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/Person.hbm.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/Repository.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/net/pureessence/example/HibernateJoinTableCascadeNoneTest.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/import.sql" />
+        <option value="$PROJECT_DIR$/src/test/java/net/pureessence/example/HibernateJoinTableCascadeSaveUpdateTest.java" />
       </list>
     </option>
   </component>
@@ -313,6 +231,14 @@
               <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -375,6 +301,14 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -399,13 +333,13 @@
       <recent name="C:\user\yzhang\HibernateJoinTableCascade\src\main\properties" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.HibernateJoinTableCascadeNoneTest">
-    <configuration default="false" name="HibernateJoinTableCascadeNoneTest" type="JUnit" factoryName="JUnit" temporary="true">
+  <component name="RunManager" selected="JUnit.HibernateJoinTableCascadeSaveUpdateTest">
+    <configuration default="false" name="HibernateJoinTableCascadeSaveUpdateTest" type="JUnit" factoryName="JUnit" temporary="true">
       <module name="HibernateJoinTableCascade" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="net.pureessence.example" />
-      <option name="MAIN_CLASS_NAME" value="net.pureessence.example.HibernateJoinTableCascadeNoneTest" />
+      <option name="MAIN_CLASS_NAME" value="net.pureessence.example.HibernateJoinTableCascadeSaveUpdateTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
@@ -561,11 +495,12 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924107" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -576,10 +511,9 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973261" sideWeight="0.6729911" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32700893" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32700893" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -620,16 +554,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/pureessence/example/BaseBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="25" selection-start="159" selection-end="159" vertical-scroll-proportion="0.20411664" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/pureessence/example/Audit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="31" selection-start="131" selection-end="131" vertical-scroll-proportion="0.1457976" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/properties/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="31" selection-start="728" selection-end="728" vertical-scroll-proportion="0.46655232" />
@@ -653,22 +577,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/net/pureessence/example/HibernateJoinTableCascadeNoneTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="14" selection-start="412" selection-end="412" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="70" column="75" selection-start="2628" selection-end="2628" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/TestContext.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="52" selection-start="798" selection-end="798" vertical-scroll-proportion="0.0">
@@ -683,27 +591,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/Person.hbm.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="98" selection-start="758" selection-end="758" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/import.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="66" selection-start="949" selection-end="949" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/Repository.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="57" selection-start="1842" selection-end="1842" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/Audit.hbm.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="42" selection-start="428" selection-end="428" vertical-scroll-proportion="0.0">
@@ -713,8 +600,59 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/properties/spy.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="23" selection-start="2491" selection-end="2491" vertical-scroll-proportion="0.46570396">
+        <state line="69" column="23" selection-start="2491" selection-end="2491" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Repository.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="52" selection-start="1790" selection-end="1790" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Person.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="48" selection-start="730" selection-end="730" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="75" selection-start="2628" selection-end="2628" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/import.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="51" selection-start="1285" selection-end="1285" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/pureessence/example/BaseBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="25" selection-start="159" selection-end="159" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/pureessence/example/Audit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="31" selection-start="131" selection-end="131" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/pureessence/example/HibernateJoinTableCascadeSaveUpdateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="12" selection-start="1292" selection-end="1292" vertical-scroll-proportion="0.9860627">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
