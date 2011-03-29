@@ -10,5 +10,10 @@
 
 		<property name="name" length="75" />
 
+        <set name="audits" table="bank_audit">
+            <key column="bank_id" not-null="true" foreign-key="bank_audit_bank_id"/>
+            <many-to-many column="audit_id" unique="true" class="Audit" foreign-key="bank_audit_audit_id"/>
+        </set>
+
 	</class>
 </hibernate-mapping>

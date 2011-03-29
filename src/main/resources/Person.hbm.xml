@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
 <hibernate-mapping default-lazy="false" package="net.pureessence.example">
 
-	<class name="Person" table="person" >
+    <class name="Person" table="person">
 
-		<id name="id" column="id" type="java.lang.Long">
-			<generator class = "identity" />
-		</id>
+        <id name="id" column="id" type="java.lang.Long">
+            <generator class="identity"/>
+        </id>
 
-		<property name="firstName" length="30" />
-		<property name="lastName" length="30" />
+        <property name="firstName" length="30"/>
+        <property name="lastName" length="30"/>
 
-	</class>
+        <set name="audits" table="person_audit">
+            <key column="person_id" not-null="true" foreign-key="person_audit_person_id"/>
+            <many-to-many column="audit_id" unique="true" class="Audit" foreign-key="person_audit_audit_id"/>
+        </set>
+
+    </class>
 </hibernate-mapping>

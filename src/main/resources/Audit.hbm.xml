@@ -8,7 +8,7 @@
 			<generator class = "identity" />
 		</id>
 
-		<property name="action" length="75" />
+		<property name="action" length="10" />
 
 	</class>
 </hibernate-mapping>
