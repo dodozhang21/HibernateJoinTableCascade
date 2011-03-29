@@ -39,6 +39,8 @@ public class HibernateJoinTableCascadeSaveUpdateTest extends AbstractHibernateJo
         bankDao.delete(bank);
 
         assertNotNull("delete should not be cascaded", auditDao.getById(2L));
+
+        assertEquals(2, auditDao.getAll().size());
     }
 
     @Test
@@ -59,6 +61,8 @@ public class HibernateJoinTableCascadeSaveUpdateTest extends AbstractHibernateJo
         personDao.save(person);
 
         assertNotNull("child should not be removed", auditDao.getById(1L));
+
+        assertEquals(2, auditDao.getAll().size());
     }
 
     private static Audit audit(String action) {
